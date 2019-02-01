@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">MemoryGame</string>
+    <string name="name"> Welcome </string>
+
+    <!-- Login Screen XML  -->
+    <string name="lbl_name">Name: </string>
+    <string name="btn_start"> Start Game</string>
+    <string name="text_view"> Welcome to Memory Game</string>
+
+
+    <!-- Section Screen XML -->
+
+    <string name="section_screen">Select Section</string>
+    <string name="btn12"> 12 Card</string>
+    <string name="btn16"> 16 Card</string>
+    <string name="btn20"> 20 Card</string>
+    <string name="btn36"> 36 Card</string>
+
+    <!-- Mod Screen XML -->
+    <string name="btn_free">Free Mode</string>
+    <string name="btn_time">Time Mode</string>
+    <string name="btn_hard">Hard Mode</string>
+
+    <!-- Game Screens XML -->
+    <string name="txt_name"> Welcome</string>
+    <string name="txt_score">Score: 0</string>
+    <string name="txt_mistake">Mistake: 0</string>
+    <string name="chronometer">00:00</string>
+    <string name="txt_countdown">10:00</string>
+
+
+
+    <!-- Score Screen XML -->
+    <string name="btn_restart"> Restart Game </string>
+    <string name="btn_section"> Choose Section </string>
+</resources>
