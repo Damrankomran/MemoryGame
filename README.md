@@ -1,4 +1,4 @@
-# MemoryGame2
+# MemoryGame
 
 Android Studio
 
